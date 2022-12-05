@@ -1,0 +1,43 @@
+html {
+    font-size: 22px;
+}
+
+body { 
+    background-color: #333;
+    color: whitesmoke
+}
+
+a {
+    color: chartreuse;
+}
+
+a:visited { 
+    color: darkgoldenrod
+}
+
+a:hover, a:active {
+    color: aliceblue;
+}
+
+mark {
+    color: rgb(125, 109, 112);
+    background-color: aquamarine;
+}
+
+
+table, tr, caption, th, td {
+    border: 1px solid whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+table { 
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+tfoot { 
+    font-size: 12px;
+}

@@ -1,0 +1,12 @@
+    html {
+        font-size: 36px;
+        font-family: sans-serif; 
+        font-style: oblique;
+        font-stretch: extra-condensed;
+        
+    }
+        
+    body {
+        background-color: brown;
+        color: darkorange;
+        }
